@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Vaibhav260
-- 👀 I’m interested in Machine learning,Mobile application development,web development,competetive programming
+- 👋 Hi, I’m Vaibhav Hawaldar
+- 👀 I’m interested in Machine Learning, Mobile Application Development, Web Development, Competetive Programming
 - 🌱 I’m currently learning Machine learning and deep learning
 - 💞️ I’m looking to collaborate on research paper related to machine learning.
 - 📫 How to reach me Hawaldarvishu@gmail.com
