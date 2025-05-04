@@ -34,7 +34,7 @@
 ---
 
 ### 📈 Currently Upgrading
-- 🛠️ System Design for Interviews  
+- 🛠️ System Design   
 - 🌐 Full-Stack Projects with Deployment (React + FastAPI + PostgreSQL)  
 - 🧪 MLOps & Model Deployment with Docker, FastAPI, and AWS
 
